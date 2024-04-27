@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/f/cprogramm/Oliverprogramm/Ghoul-Engine-dev/build/CMakePresets.json"
+    ]
+}
